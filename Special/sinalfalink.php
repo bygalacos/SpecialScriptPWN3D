@@ -1,0 +1,1 @@
+https://memati.xyz/Special/sinusbot-1.0.0-alpha.7-06a54d7.tar.bz2

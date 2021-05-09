@@ -1,0 +1,84 @@
+
+token = BOT_TOKEN_HERE
+
+owner = adminid
+
+
+// mention (@Botname play)
+
+prefix = "!"
+
+game = "specialscript.com"
+
+status = ONLINE
+
+
+songinstatus=false
+
+
+
+altprefix = "NONE"
+
+
+success = "🎶"
+warning = "💡"
+error = "🚫"
+loading = "⌚"
+searching = "🔎"
+
+
+help = help
+
+
+npimages = false
+
+stayinchannel = false
+
+
+maxtime = 0
+
+alonetimeuntilstop = 0
+
+playlistsfolder = "Playlists"
+
+
+updatealerts=true
+
+lyrics.default = "A-Z Lyrics"
+
+
+aliases {
+
+  settings = [ status ]
+
+
+  lyrics = []
+  nowplaying = [ np, current ]
+  play = [ oynat, çal ]
+  playlists = [ pls ]
+  queue = [ listi sıra ]
+  remove = [ delete, sil ]
+  scsearch = []
+  search = [ ytsearch, ara ]
+  shuffle = [ karıştır ]
+  skip = [ voteskip ]
+
+  // Admin commands
+  prefix = [ setprefix ]
+  setdj = []
+  settc = []
+  setvc = []
+
+  // DJ Commands
+  forceremove = [ forcedelete, modremove, moddelete ]
+  forceskip = [ modskip ]
+  movetrack = [ move ]
+  pause = [ duraklat ]
+  playnext = [ geç ]
+  repeat = [ tekrar ]
+  skipto = [ jumpto, atla ]
+  stop = [ dur ]
+  volume = [ vol, ses ]
+}
+
+eval=false
