@@ -60,7 +60,7 @@ ALERT: All files does lot of sensitive info (of yours) transfer with memati.xyz 
 
 Simple, they check ur data and geolocate you. Even restrict your IP for no reason.
 
-Log of Special
+Log of Special Script
 
 ```
 curl -s -4 memati.xyz/Special/ipcek.php
